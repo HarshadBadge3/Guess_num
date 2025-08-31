@@ -1,3 +1,12 @@
+// This is a simple C++ project where the user has to guess the number chosen by the computer.  
+The computer generates a random number between 1 and 100, and the player keeps guessing until they get it right.
+
+## Features
+- Random number generation  
+- Hints for higher or lower guesses  
+- Counts number of attempts💫....
+
+
 
 #include <iostream>
 #include <cstdlib>
